@@ -129,6 +129,6 @@ React.jsとNode.jsを使用して、20を超える便利でよく整理された
 
 <hr>
 
-Thank you for your visiting my profile,
-If you need me, Anytime Ping Me!
+私のプロフィールにアクセスしていただきありがとうございます、
+私が必要なら、いつでも私に連絡してください！
 
