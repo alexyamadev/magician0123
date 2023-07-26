@@ -18,7 +18,7 @@ React.js、Redux、Vue.js、NextJs - JavaScript、HTML、CSSを使用したフ�
 PHP/Laravel、Python/Django、Node/ExpressJSを使用したバックエンドの開発
 React.jsとNode.jsを使用して、20を超える便利でよく整理されたWebサイトとアプリケーションの開発に特化しています。 DeFi、DAO、暗号通貨、イーサリアム、Avalanche、Solidity、Solana、Web3.js、スマート契約(NFT/ERC20/ERC721)、ICO/IEO、取引所プラットフォーム、NFTマーケットプレイスなどのブロックチェーン技術に対する十分な経験が必要 します。 MySQL、OraclePL/SQL、その他のデータベース環境(MongoDB、PostgreSQLなど)でのSQLプログラミング言語の経験 独立したプロジェクトを効果的に自己管理し、しばしば時間制限があり、他の時間帯（太平洋、東部）を使用し、強力な創造的技術と技術的技術を必要とする困難なWebおよびブロックチェーンプロジェクトでチームメンバーを率いて協力する能力 。
 
-Main Skills:
+メインスキル:
 - ChatBot, ChatGPT, ManyChat, Api Integration
 - Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
 - React, React Hooks, React Context, 
@@ -30,7 +30,7 @@ Main Skills:
 - MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
 - AWS, DigitalOcean, Heroku 
 
-I'm full time developer. Please contact me at james950716@gmail.com
+私はフルタイムの開発者です。 alexander930705@gmail.comまでご連絡ください。
 
 <a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUTkOMMxAzpXYUG-r4lzXljg1lY41IfDoUA&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
 
