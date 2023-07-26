@@ -6,8 +6,8 @@
 </p>
 <p align="center">
  💎 💎 💎 </br>
- Let's coding every day, Learn every time.<br>
- Let's go beyond our limits<br>
+ 毎日コーディングし、毎回学びましょう。<br>
+  自分の限界を超えていきましょう<br>
 </p>
 
 ## Hi 👋,AI Expert, Senior Web & Mobile Developer!
