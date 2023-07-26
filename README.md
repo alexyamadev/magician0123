@@ -34,13 +34,13 @@ React.jsとNode.jsを使用して、20を超える便利でよく整理された
 
 <a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUTkOMMxAzpXYUG-r4lzXljg1lY41IfDoUA&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
 
-## ⚡️ A Few Quick Facts
+## ⚡️ いくつかの簡単な事実
 
-- 🧐 Always learning about blockchain, smart contracts, and web development.
-- 🤔 I’m looking for help with L2 technologies.
-- 💬 Ping me about blockchain stuff.
-- 📙 Check out my resume.
-- 🎉 Fun Fact: I like cyberpunk and Lo-fi。
+- 🧐 ブロックチェーン、スマート コントラクト、Web 開発について常に学んでいます。
+- 🤔 L2 テクノロジーに関するヘルプを探しています。
+- 💬 ブロックチェーンに関することについて私にメールしてください。
+- 📙私の履歴書をチェックしてください。
+- 🎉 豆知識: 私はサイバーパンクとローファイが好きです。
 
 
 ## Languages and Tools:
